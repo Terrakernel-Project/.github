@@ -1,5 +1,11 @@
 # Terrakernel Project
 
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-~60k-blue)](https://github.com/Terrakernel-Project/Terrakernel)
+[![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/Terrakernel-Project/Terrakernel/blob/master/LICENSE)
+[![Language](https://img.shields.io/badge/language-C%2B%2B-orange)](https://github.com/Terrakernel-Project/Terrakernel)
+[![Architecture](https://img.shields.io/badge/architecture-AMD64-red)](https://github.com/Terrakernel-Project/Terrakernel)
+[![Status](https://img.shields.io/badge/status-active%20development-brightgreen)](https://github.com/Terrakernel-Project/Terrakernel)
+
 The official organization for the Terrakernel project - a 64-bit AMD64 operating system and kernel written from scratch in C/C++ and Assembly.
 
 ---
