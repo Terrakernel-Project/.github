@@ -17,7 +17,7 @@ Terrakernel is a hybrid x86_64 kernel being developed as the foundation for Terr
 **Current Status:** Active development towards v1.0-rc1
 
 **Statistics:**
-- ~60,000 lines of code
+- ~65,000 lines of code
 - Primary language: C++
 - Architecture: AMD64 (x86_64)
 - License: BSD 3-Clause License
