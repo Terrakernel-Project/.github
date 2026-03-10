@@ -1,6 +1,6 @@
 # Terrakernel Project
 
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-~60k-blue)](https://github.com/Terrakernel-Project/Terrakernel)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-~65K-blue)](https://github.com/Terrakernel-Project/Terrakernel)
 [![License](https://img.shields.io/badge/license-BSD%203--Clause-green)](https://github.com/Terrakernel-Project/Terrakernel/blob/master/LICENSE)
 [![Language](https://img.shields.io/badge/language-C%2B%2B-orange)](https://github.com/Terrakernel-Project/Terrakernel)
 [![Architecture](https://img.shields.io/badge/architecture-AMD64-red)](https://github.com/Terrakernel-Project/Terrakernel)
